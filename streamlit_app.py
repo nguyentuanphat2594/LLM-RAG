@@ -42,7 +42,7 @@ def load_llm():
 
     model = AutoModelForCausalLM.from_pretrained(
         MODEL_NAME,
-        quantization_config=nf4_config,
+        torch_dtype=torch.bfloat16,
         low_cpu_mem_usage=True
     )
 
