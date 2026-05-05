@@ -198,6 +198,3 @@ File `source.ipynb` chứa:
 
 Dự án tập trung vào **hiểu bản chất hệ thống RAG**, không chỉ sử dụng thư viện.
 
----
-
-👉 Nếu bạn thấy project hữu ích, hãy ⭐ repo!
